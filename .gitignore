@@ -1,0 +1,8 @@
+node_modules
+.output
+.output-pages
+.vercel
+.nitro
+screenshots
+dist
+*.log
